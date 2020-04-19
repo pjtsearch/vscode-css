@@ -1,0 +1,189 @@
+/*
+
+FONT
+
+*/
+
+.linux {
+    font-family: "Google Sans Medium"!important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab .tab-label a, .monaco-workbench .part.editor>.content .editor-group-container>.title .title-label a {
+    font-size: 15px;
+}
+
+.monaco-workbench .part>.content {
+    font-size: 15px;
+}
+
+h3.title {
+    font-size: 14px!important;
+    text-transform: capitalize;
+}
+
+.monaco-workbench .part.sidebar>.title>.title-label h2 {
+    font-size: 15px!important;
+    text-transform: capitalize!important;
+}
+
+
+/*
+
+SPACING
+
+*/
+
+.tab {
+    padding-top: 18px;
+    padding-bottom: 30px;
+}
+
+.tabs-container {
+    overflow: visible!important;
+}
+
+.tab-border-bottom-container {
+    height: 2px!important;
+}
+
+.monaco-scrollable-element {
+    height: max-content!important;
+    overflow: visible!important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
+    height: max-content!important;
+    min-height: max-content!important;
+}
+
+.editor-actions {
+    height: auto!important;
+    margin: auto!important;
+}
+
+
+
+
+
+/*COLOR
+
+
+*/
+
+* {--tab-border-bottom-color: #92b5fc!important;}
+
+a.action-label.checked {
+    color: #92b5fc!important;
+    border-bottom-color: #92b5fc!important;
+}
+
+.settings-group-title-label.settings-group-level-1.settings-group-first {
+    color: #92b5fc!important;
+}
+
+span.setting-item-label {
+    color: #92b5fc!important;
+}
+
+.setting-item-modified-indicator {
+    border-color: #92b5fc!important;
+}
+
+.settings-toc-entry {}
+
+.settings-editor>.settings-body .settings-toc-container .monaco-list-row.selected .settings-toc-entry {
+    color: #92b5fc!important;
+}
+
+.monaco-list.list_id_8 .monaco-list-row.selected {
+    color: #92b5fc!important;
+}
+
+.settings-editor > .settings-body > .settings-tree-container .settings-group-title-label {
+    color: #92b5fc!important;
+}
+
+.monaco-select-box-dropdown-container > .select-box-dropdown-list-container .monaco-list .monaco-list-row .option-decorator-right, .option-decorator-right {
+    color: #92b5fc!important;
+}
+
+.option-decorator-right {}
+
+.settings-editor > .settings-body > .settings-tree-container .setting-item-contents .setting-item-description-markdown a {
+    color: #92b5fc!important;
+}
+.monaco-drag-image, .monaco-list:focus .monaco-list-row.selected.focused {
+    color: #92b5fc!important;
+}
+
+
+.monaco-drag-image, .monaco-list:focus .monaco-list-row.selected.focused {
+    color: #92b5fc!important;
+}
+
+.monaco-list .monaco-list-row.selected {
+    color: #92b5fc!important;
+}
+
+.badge-content {
+    background-color: #92b5fc!important;
+}
+
+.monaco-list .monaco-list-row.selected {
+    color: #92b5fc!important;
+}
+
+.extension-list-item .monaco-action-bar .action-item:hover .action-label.extension-action.label.prominent {
+    background-color: #7792c8!important;
+}
+
+a.action-label.codicon.extension-action.label.prominent.install {
+    background: #92b5fc!important;
+    color: #333!important;
+}
+
+.show-file-icons .monaco-tl-twistie.collapsible:not(.collapsed) + .monaco-tl-contents .folder-icon::before, .vs .show-file-icons .monaco-tl-twistie.collapsible:not(.collapsed) + .monaco-tl-contents .folder-icon::before {
+    filter: hue-rotate(45deg);
+}
+
+/*
+
+BORDER RADIUS
+
+*/
+
+
+.monaco-inputbox {
+    border-radius: 7px!important;
+}
+
+.scm-editor-container.synthetic-focus {
+}
+
+.scm-viewlet .scm-editor-container .monaco-editor-background, .scm-viewlet .scm-editor-container .monaco-editor, .scm-viewlet .scm-editor-container .monaco-editor .margin {
+    border-radius: 7px!important;
+    overflow: hidden!important;
+}
+
+a.monaco-button.monaco-text-button {
+    border-radius: 7px!important;
+}
+
+a.action-label.extension-action {
+    border-radius: 7px!important;
+}
+
+.suggest-input-container {
+    border-radius: 7px!important;
+    padding: 6px!important;
+}
+
+.suggest-input-container {
+    border-radius: 7px!important;
+    padding: 6px!important;
+}
+
+.notification-toast {
+    border-radius: 7px!important;
+    overflow: hidden!important;
+}
