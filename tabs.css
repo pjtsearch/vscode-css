@@ -1,0 +1,33 @@
+* {--tab-border-bottom-color: #92b5fc!important;}
+
+.tab {
+    padding-top: 18px;
+    padding-bottom: 30px;
+}
+
+.tabs-container {
+    overflow: visible!important;
+}
+
+.tab-border-bottom-container {
+    height: 2px!important;
+}
+
+.editor-actions {
+    height: auto!important;
+    margin: auto!important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab .tab-label a, .monaco-workbench .part.editor>.content .editor-group-container>.title .title-label a {
+    font-size: 15px;
+}
+
+.monaco-scrollable-element {
+    height: max-content!important;
+    overflow: visible!important;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
+    height: max-content!important;
+    min-height: max-content!important;
+}

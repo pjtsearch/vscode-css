@@ -1,0 +1,34 @@
+.linux {
+    font-family: "Google Sans Medium"!important;
+}
+
+.monaco-workbench .part>.content {
+    font-size: 15px;
+}
+
+.monaco-inputbox {
+    border-radius: 7px!important;
+}
+
+a.monaco-button.monaco-text-button {
+    border-radius: 7px!important;
+}
+
+.notification-toast {
+    border-radius: 7px!important;
+    overflow: hidden!important;
+}
+
+.monaco-list .monaco-list-row.selected {
+    color: #92b5fc!important;
+}
+
+.monaco-drag-image, .monaco-list:focus .monaco-list-row.selected.focused {
+    color: #92b5fc!important;
+}
+
+/* UNKNOWN */
+.scm-viewlet .scm-editor-container .monaco-editor-background, .scm-viewlet .scm-editor-container .monaco-editor, .scm-viewlet .scm-editor-container .monaco-editor .margin {
+    border-radius: 7px!important;
+    overflow: hidden!important;
+}

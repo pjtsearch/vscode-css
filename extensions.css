@@ -1,0 +1,22 @@
+a.action-label.checked {
+    color: #92b5fc!important;
+    border-bottom-color: #92b5fc!important;
+}
+
+.extension-list-item .monaco-action-bar .action-item:hover .action-label.extension-action.label.prominent {
+    background-color: #7792c8!important;
+}
+
+a.action-label.codicon.extension-action.label.prominent.install {
+    background: #92b5fc!important;
+    color: #333!important;
+}
+
+a.action-label.extension-action {
+    border-radius: 7px!important;
+}
+
+.suggest-input-container {
+    border-radius: 7px!important;
+    padding: 6px!important;
+}

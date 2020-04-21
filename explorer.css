@@ -1,0 +1,13 @@
+h3.title {
+    font-size: 14px!important;
+    text-transform: capitalize;
+}
+
+.monaco-workbench .part.sidebar>.title>.title-label h2 {
+    font-size: 15px!important;
+    text-transform: capitalize!important;
+}
+
+.show-file-icons .monaco-tl-twistie.collapsible:not(.collapsed) + .monaco-tl-contents .folder-icon::before, .vs .show-file-icons .monaco-tl-twistie.collapsible:not(.collapsed) + .monaco-tl-contents .folder-icon::before {
+    filter: hue-rotate(45deg);
+}

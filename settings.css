@@ -1,0 +1,29 @@
+
+
+.settings-group-title-label.settings-group-level-1.settings-group-first {
+    color: #92b5fc!important;
+}
+
+span.setting-item-label {
+    color: #92b5fc!important;
+}
+
+.settings-editor > .settings-body > .settings-tree-container .settings-group-title-label {
+    color: #92b5fc!important;
+}
+
+.setting-item-modified-indicator {
+    border-color: #92b5fc!important;
+}
+
+.settings-editor>.settings-body .settings-toc-container .monaco-list-row.selected .settings-toc-entry {
+    color: #92b5fc!important;
+}
+
+.settings-editor > .settings-body > .settings-tree-container .setting-item-contents .setting-item-description-markdown a {
+    color: #92b5fc!important;
+}
+
+.monaco-select-box-dropdown-container > .select-box-dropdown-list-container .monaco-list .monaco-list-row .option-decorator-right, .option-decorator-right {
+    color: #92b5fc!important;
+}
