@@ -1,8 +1,8 @@
 * {--tab-border-bottom-color: #92b5fc!important;}
 
 .tab {
-    padding-top: 18px;
-    padding-bottom: 30px;
+    padding-top: 5px;
+    padding-bottom: 40px;
 }
 
 .tabs-container {
@@ -11,6 +11,10 @@
 
 .tab-border-bottom-container {
     height: 2px!important;
+}
+
+.tab-actions {
+    margin-top: 10px!important;
 }
 
 .editor-actions {
