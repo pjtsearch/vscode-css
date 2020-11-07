@@ -26,11 +26,6 @@
     font-size: 15px;
 }
 
-.monaco-scrollable-element {
-    height: max-content!important;
-    overflow: visible!important;
-}
-
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
     height: max-content!important;
     min-height: max-content!important;
